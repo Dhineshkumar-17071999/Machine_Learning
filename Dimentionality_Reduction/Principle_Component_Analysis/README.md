@@ -1,3 +1,5 @@
+PCA is a unsupervised algorithm
+
 1. PCA Uses:
     - Noise filtering
     - Visualization
@@ -17,5 +19,8 @@
     - Sort eigenvalues in decending order and choose the k eigenvectors that correspond to the k largest eigenvalues where k is number of dimensions of the new feature subspace (k=<d).
     - Construct the projection matrix W from the selected k eigenvectors.
     - Transform the original dataset X via W to obtain a k-dimentional feature subspace Y.
+
+- Learn about the relationship between X and Y values 
+- Find list of principle axes
 
 2D and 3D view : https://setosa.io/ev/principal-component-analysis/
