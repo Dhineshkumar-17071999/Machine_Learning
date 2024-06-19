@@ -11,4 +11,4 @@
     - The goal of LDA is to project a feature space (a dataset n-dimentioanl sample) onto a small subspace k (where k<=n-1) while maintaining the class discriminatory information.
     - Both PCA and LDA are linear transformation techniques used for dimentional reduction. PCA is described as unsupervised but LDA is supervised because of the relation to the dependent variable.
 
-![Alt text][PCA_LDA.png]
+![Alt text](PCA_LDA.png)
